@@ -1,6 +1,6 @@
 
 
-Documentación Técnica: Generador de Polígonos 2D para Blender
+Generador de Polígonos 2D para Blender
 
 Este script automatiza la creación de geometrías poligonales regulares dentro de Blender utilizando la API `bpy` y cálculos trigonométricos.
 
